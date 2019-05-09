@@ -1,0 +1,63 @@
+#a{
+         background-color: green;
+         font-size: 90px;
+}
+#who{
+      background-color: white;
+            font-size: 90px;
+       }
+       header, footer {
+         text-align: center;
+         width: 100%;
+       }
+       header {
+       	text-align: left;
+         background-color: #CCEEFF;
+         font-size: 36px;
+         font-weight: bold;
+       }
+       footer {
+         background-color: #CCEEFF;
+         font-size: 25px;
+       }
+       #who{
+      background-color: #CCEEFF;
+            font-size: 30px;
+       }
+       ul{
+       		list-style-type: square;
+       }
+       #club{
+			background-color: gray;
+            font-size: 30px;
+
+       }
+       #hobby{
+       	background-color: gray;
+            font-size: 30px;
+       }
+       div.a{
+			 columns: 3;
+			 background-color:lightyellow;
+		}
+		div.b{
+			columns: 3;
+			column-rule: silver solid;
+			padding-left: 90px;
+			background-color:lightyellow;
+				
+		}
+		div.c
+			{	background-color:lightyellow;
+				padding: 20px;
+			}
+			#life{
+				background-color:lightyellow;
+			}
+			#oo{
+				background-color: white;
+			}
+			#phone{
+
+			}
+
